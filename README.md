@@ -10,7 +10,13 @@ This project focuses on forecasting **Foreign Tourist Arrivals in India** using 
 - Explore the impact of synthetic data augmentation on forecasting accuracy.
 
 ## 📁 Project Structure
-```plaintext ├── data/ │ └── tourism_data.csv # Original dataset ├── notebook/ │ └── forecasting_model.ipynb # Jupyter notebook with implementation ├── plots/ │ ├── eda_graphs.png # EDA visualizations │ └── forecast_comparisons.png # Forecast plots ├── README.md # Project overview ```
+```plaintext
+├── data/
+│   └── tourism_data.csv              # Original dataset
+├── notebook/
+│   └── ARIMA_Tourism_Trends.ipynb       # Jupyter notebook with implementation
+├── README.md                         # Project overview
+```
 
 
 ## 🧪 Exploratory Data Analysis (EDA)
